@@ -20,4 +20,4 @@ Projects
 
 Contact
 
-view the my simple portfolio website link:
+view the my simple portfolio website link: https://sanjay-r-sanjay.github.io/Simple-Portfolio-website/
